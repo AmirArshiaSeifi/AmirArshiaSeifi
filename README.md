@@ -17,10 +17,8 @@
 
 ###
 
-  ![javascript logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
 <div align="center">
-  ![javascript logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="pointer-events: none;" oncontextmenu="return false;"/> -->
+  <img style="pointer-events: none;" oncontextmenu="return false;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
