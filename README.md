@@ -2,7 +2,7 @@
 
 ###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirarshiaseifi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirArshiaSeifi&show_icons=true&theme=radical)
 
 ###
 
