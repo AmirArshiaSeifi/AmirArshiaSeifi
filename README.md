@@ -6,6 +6,8 @@
 
 ###
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirArshiaSeifi&layout=compact&theme=radical)
+
 ###
 
 <div align="center">
