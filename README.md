@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is AmirArshia</h2>
-
-###
-
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=AmirArshiaSeifi&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
