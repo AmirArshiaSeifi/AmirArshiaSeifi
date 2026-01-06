@@ -2,11 +2,17 @@
 
 ###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirArshiaSeifi&show_icons=true&theme=radical)
+<h2 align="left">Hi 👋! My name is AmirArshia</h2>
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirArshiaSeifi&layout=compact&theme=radical)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirArshiaSeifi&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirArshiaSeifi&layout=compact&theme=radical" height="180" alt="Top Langs" />
+
+</div>
 
 ###
 
